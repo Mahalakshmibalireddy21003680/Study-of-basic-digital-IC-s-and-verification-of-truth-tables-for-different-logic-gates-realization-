@@ -80,12 +80,12 @@ nor (y6,a,b);
 xnor (y7,a,b);
 endmodule 
 ```
-Output:
-Logic symbol & Truthtable
+### Output:
+#### Logic symbol & Truthtable
 ![time](https://user-images.githubusercontent.com/93427286/195988308-b09be64f-73e3-48f2-95cc-153200dd9746.jpg)
 
-RTL
+#### RTL
 ![rtl](https://user-images.githubusercontent.com/93427286/195988304-45a357f4-4702-48a8-9d99-f87bd76c9f40.jpg)
 
-Result:
+### Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
